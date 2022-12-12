@@ -38,7 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href="https://520.txsb.gq/zh-CN" target="_blank" rel="noopener noreferrer">个人网盘</a>. Made with ❤ by 故人.',
+    'Powered by <a href="https://gurbk.github.io/" target="_blank" rel="noopener noreferrer">个人主页</a>. Made with ❤ by 故人.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
@@ -52,12 +52,12 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/gurbk',
-    },
-    {
       name: '故人',
       link: 'http://wpa.qq.com/msgrd?v=3&uin=256018882&site=qq&menu=yes',
+    },
+    {
+      name: 'GitHub',
+      link: 'https://github.com/gurbk',
     },
   ],
 
