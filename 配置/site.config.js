@@ -57,7 +57,7 @@ module.exports = {
     },
     {
       name: 'GitHub',
-      link: 'https://github.com/gurbk',
+      link: 'https://github.com/88lin',
     },
   ],
 
