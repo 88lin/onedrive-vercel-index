@@ -52,12 +52,12 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: '故人',
-      link: 'http://wpa.qq.com/msgrd?v=3&uin=256018882&site=qq&menu=yes',
+      name: 'Blog',
+      link: 'https://blog.vvvv.gay',
     },
     {
       name: 'GitHub',
-      link: 'https://github.com/gurbk',
+      link: 'https://github.com/88lin',
     },
   ],
 
