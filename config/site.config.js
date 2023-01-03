@@ -52,7 +52,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'blog',
+      name: '博客',
       link: 'https://blog.vvvv.gay',
     },
     {
